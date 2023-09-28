@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fares Elmenshawi</h1>
-<h3 align="center">I am very passionate about Machine Learning and am always striving to enhance my skills and knowledge in the field. I have a strong work ethic and am seeking a challenging career opportunity that will allow me to utilize my skills and experience to make a meaningful contribution, while also providing opportunities for growth and development. I have completed multiple projects and courses that have enhanced my understanding of Machine Learning techniques. I am confident that my combination of technical skills and dedication to  to lifelong learning make me a valuable asset to any team. I am excited to find a career opportunity where I can make a meaningful contribution and continue to grow as a professional.</h3>
+<h3 align="center">Accomplished Machine Learning Engineer with a proven history of successfully delivering real-world projects, both autonomously and within cross-functional teams. Backed by a comprehensive academic background and an unwavering commitment to the field, I am deeply devoted to the pursuit of continuous learning and excellence. My immediate objective is to secure a position that provides an opportunity for professional advancement and the application of my expertise to drive impactful results</h3>
 
 
 
