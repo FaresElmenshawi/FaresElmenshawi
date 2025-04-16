@@ -31,6 +31,10 @@
   ### Languages
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
   
   ### Machine Learning & Deep Learning
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -41,6 +45,7 @@
   ![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=for-the-badge&logo=intel&logoColor=white)
   ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Snorkel](https://img.shields.io/badge/Snorkel-4B8BBE?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAhGVYSWZNTQAqAAAACAAGAQYAAwAAAAEAAgAAARIAAwAAAAEAAQAAARoABQAAAAEAAABWARsABQAAAAEAAABeASgAAwAAAAEAAgAAh2kABAAAAAEAAABmAAAAAAAAAJAAAAABAAAAkAAAAAEAAqACAAQAAAABAAAAEKADAAQAAAABAAAAEAAAAAAx9vHoAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABWWlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNi4wLjAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczp0aWZmPSJodHRwOi8vbnMuYWRvYmUuY29tL3RpZmYvMS4wLyI+CiAgICAgICAgIDx0aWZmOk9yaWVudGF0aW9uPjE8L3RpZmY6T3JpZW50YXRpb24+CiAgICAgIDwvcmRmOkRlc2NyaXB0aW9uPgogICA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgoZXuEHAAABvElEQVQ4T42TTUtCURSG7zXNQhH7shAzFISCCIIgAqGgIFy4cBF9LF0JggsXbdpEtHDTok2LFhHhPxgXLVrUJqhFi4oWQR/QPaBFm4YgibJ7Tjcv3nu9XefC5d5z3/Oe95xzr0Y6dOHt7T79X+UTlYtyvXHKRDrYKBilcHI8wl8JYHB+RnHiF8bWIE5WZ+VcsILNvJW5a7boW5bMY0YISDEyPFv4E7Z2LFM9rUr91Cgl4fgSgCqYUQUAEsDQAjoM403q88kZb5HvRRdGHJfDEKk+v1dCjVEyI9KPDxcCDpwTeAWHQoqnG5RatWv4+gLaE9cUqvk0FYrbP6s9HpsVYTfWGiEdACqq+r4YmBzj3vTNCgPQyRZ83GDc9dVNFHVbU2oAiMjrwgKA96W2OAOgsAQPNdv3amAlYcMPGkDTQFpKAj9ZaJnYQ82e7xbIJuLMrjW/Qc1+1+3+ZMkBYyDu1lHbRK2RpGcbgJHPz3XBa22Fhrl7DsgkVoTdYTpDz9cHVDtWF3OUFnz7Lbr+fKfK2QbyRmeJCyKI2lGf1HvLbaCIkwJBOO5yStf7G+UKBpYrHgEZ0fbMU/9vDL7RN5gfIFjdT5K0AAAAAElFTkSuQmCC&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
   
   ### Data Processing & Visualization
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -48,9 +53,6 @@
   ![RAPIDS](https://img.shields.io/badge/RAPIDS-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
   ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-  
-  ### Computer Vision
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
   
   ### MLOps & Deployment
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
