@@ -53,6 +53,7 @@
   ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
   ![LangGraph](https://img.shields.io/badge/LangGraph-212121?style=for-the-badge)
   ![NeMo Guardrails](https://img.shields.io/badge/NeMo_Guardrails-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+  ![FAISS](https://img.shields.io/badge/FAISS-3776AB?style=for-the-badge&logo=meta&logoColor=white)
 
 
   
