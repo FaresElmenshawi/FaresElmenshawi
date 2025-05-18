@@ -7,7 +7,13 @@
 ## <div align="center">💫 About Me</div>
 
 <div align="center">
-  <p>Accomplished Machine Learning Engineer with a proven history of successfully delivering real-world projects, both autonomously and within cross-functional teams. Backed by a comprehensive academic background and an unwavering commitment to the field, I am deeply devoted to the pursuit of continuous learning and excellence. My immediate objective is to secure a position that provides an opportunity for professional advancement and the application of my expertise to drive impactful results.</p>
+  <p>Accomplished Machine Learning Engineer passionate about transforming businesses through AI and
+automation, I specialize in developing and deploying real-world solutions that streamline
+operations, enhance scalability, and drive innovation. I bring a strong academic foundation combined
+with hands-on experience in model optimization, deployment, and MLOps, effectively bridging the
+gap between cutting-edge technology and business goals. Whether working independently or within
+cross-functional teams, I aim to deliver intelligent systems that increase efficiency and customer
+value.</p>
 </div>
 
 ## <div align="center">🔍 Connect with me</div>
